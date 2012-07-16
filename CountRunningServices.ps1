@@ -1,0 +1,1 @@
+(Get-Service | where-object { $_.status -eq "running" }).length

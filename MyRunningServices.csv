@@ -1,0 +1,80 @@
+#TYPE Selected.System.Management.ManagementObject,,
+name,startmode,startname
+AESTFilters,Auto,LocalSystem
+Appinfo,Manual,LocalSystem
+AudioEndpointBuilder,Auto,LocalSystem
+AudioSrv,Auto,NT AUTHORITY\LocalService
+avg9emc,Auto,LocalSystem
+avg9wd,Auto,LocalSystem
+avgfws9,Auto,LocalSystem
+AVGIDSAgent,Auto,LocalSystem
+BFE,Auto,NT AUTHORITY\LocalService
+BITS,Manual,LocalSystem
+Browser,Manual,LocalSystem
+bthserv,Manual,NT AUTHORITY\LocalService
+btwdins,Auto,LocalSystem
+Com4QLBEx,Manual,LocalSystem
+CryptSvc,Auto,NT Authority\NetworkService
+DcomLaunch,Auto,LocalSystem
+Dhcp,Auto,NT Authority\LocalService
+Dnscache,Auto,NT AUTHORITY\NetworkService
+DPS,Auto,NT AUTHORITY\LocalService
+EapHost,Manual,localSystem
+eventlog,Auto,NT AUTHORITY\LocalService
+EventSystem,Auto,NT AUTHORITY\LocalService
+fdPHost,Manual,NT AUTHORITY\LocalService
+FDResPub,Auto,NT AUTHORITY\LocalService
+FontCache,Manual,NT AUTHORITY\LocalService
+gpsvc,Auto,LocalSystem
+hidserv,Manual,LocalSystem
+HP Health Check Service,Auto,LocalSystem
+hpqwmiex,Manual,LocalSystem
+hpsrv,Auto,LocalSystem
+IKEEXT,Auto,LocalSystem
+iphlpsvc,Auto,LocalSystem
+KeyIso,Manual,LocalSystem
+LanmanServer,Auto,LocalSystem
+LanmanWorkstation,Auto,NT AUTHORITY\NetworkService
+LightScribeService,Auto,LocalSystem
+lmhosts,Auto,NT AUTHORITY\LocalService
+LMS,Auto,LocalSystem
+MpsSvc,Auto,NT Authority\LocalService
+Netman,Manual,LocalSystem
+netprofm,Manual,NT AUTHORITY\LocalService
+NlaSvc,Auto,NT AUTHORITY\NetworkService
+nsi,Auto,NT Authority\LocalService
+osppsvc,Manual,NT AUTHORITY\NetworkService
+PcaSvc,Auto,LocalSystem
+PlugPlay,Auto,LocalSystem
+PolicyAgent,Manual,NT Authority\NetworkService
+Power,Auto,LocalSystem
+ProfSvc,Auto,LocalSystem
+ProtectedStorage,Manual,LocalSystem
+RichVideo,Auto,LocalSystem
+RpcEptMapper,Auto,NT AUTHORITY\NetworkService
+RpcSs,Auto,NT AUTHORITY\NetworkService
+SamSs,Auto,LocalSystem
+Schedule,Auto,LocalSystem
+SeaPort,Auto,LocalSystem
+SENS,Auto,LocalSystem
+ShellHWDetection,Auto,LocalSystem
+Spooler,Auto,LocalSystem
+SSDPSRV,Manual,NT AUTHORITY\LocalService
+STacSV,Auto,LocalSystem
+stisvc,Auto,NT Authority\LocalService
+SysMain,Auto,LocalSystem
+TapiSrv,Manual,NT AUTHORITY\NetworkService
+Themes,Auto,LocalSystem
+TrkWks,Auto,LocalSystem
+UNS,Auto,LocalSystem
+upnphost,Manual,NT AUTHORITY\LocalService
+UxSms,Auto,localSystem
+wcncsvc,Manual,NT AUTHORITY\LocalService
+WdiServiceHost,Manual,NT AUTHORITY\LocalService
+Winmgmt,Auto,localSystem
+Wlansvc,Auto,LocalSystem
+WMPNetworkSvc,Auto,NT AUTHORITY\NetworkService
+wscsvc,Auto,NT AUTHORITY\LocalService
+WSearch,Auto,LocalSystem
+wuauserv,Auto,LocalSystem
+wudfsvc,Auto,LocalSystem
